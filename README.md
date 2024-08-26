@@ -2,8 +2,6 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
 The study guide is intended for students to gain an understanding and a feel for working in front end web development. The three fundamental tools being HTML, CSS, and JavaScript.
 
 ## Installation
